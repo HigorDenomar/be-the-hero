@@ -38,14 +38,14 @@ export default StyleSheet.create({
   },
 
   incidentList: {
-    marginTop: 32,
+    marginTop: 24,
   },
 
   incident: {
     padding: 24,
     borderRadius: 8,
     backgroundColor: '#FFF',
-    marginBottom: 16,
+    marginVertical: 8,
   },
 
   incidentProperty: {
@@ -72,5 +72,13 @@ export default StyleSheet.create({
     fontSize: 15,
     fontWeight: 'bold',
   },
+
+  spinner: {
+    paddingTop: 8,
+    position: 'absolute',
+    bottom: 0,
+    left: 24,
+    width: '100%',
+  }
 
 });

@@ -5,6 +5,7 @@ import {
   Image,
   FlatList,
   TouchableOpacity,
+  ActivityIndicator,
 } from 'react-native';
 
 import { useNavigation } from '@react-navigation/native';
@@ -32,7 +33,7 @@ export default function Incidents() {
       return;
     }
 
-    if(total > 0 && incidents.lengt === total) {
+    if(total > 0 && incidents.length == total) {
       return;
     }
 
@@ -68,7 +69,7 @@ export default function Incidents() {
         style={styles.incidentList}
         data={incidents}
         keyExtractor={incident => String(incident.id)}
-        // showsVerticalScrollIndicator={false}
+        showsVerticalScrollIndicator={false}
         onEndReached={loadIncidents}
         onEndReachedThreshold={0.2}
         renderItem={({ item: incident }) => (
@@ -97,7 +98,14 @@ export default function Incidents() {
           </View>
         )}
       />
-  
+
+      <View style={ loading ? {} : styles.spinner} >
+        <ActivityIndicator
+          animating={loading}
+          size="large"
+          color="#E02941"
+        />
+      </View>
     </View>
   );
 };
