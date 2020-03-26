@@ -33,7 +33,7 @@ export default function() {
         }
       });
 
-      setIncidents(incidentes.filter(incidentes.id !== id));
+      setIncidents(incidentes.filter(incident => incident.id !== id));
     } catch {
       alert('Erro ao deletar caso, tente novamente');
     }
