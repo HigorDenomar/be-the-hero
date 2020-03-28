@@ -43,15 +43,17 @@ Para o fontend foi utilizado o [React.js](https://reactjs.org) para a constru√ß√
 
 <img src="assets/login.png" alt="Tela de login na Web">
 
----
+&nbsp;
 
 <img src="assets/profile.png" alt="Tela de perfil da ONG, com listagem dos casos">
 
----
+&nbsp;
 
 <img src="assets/new-incident.png" alt="Tela para cadastrar um novo caso">
 
 &nbsp;
+
+---
 
 #### Mobile:
 
