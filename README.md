@@ -29,6 +29,8 @@ As ONG's podem cadastrar os casos pelo site, informando o preço que precisam e 
 
 Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobile e visualizar todos os casos cadastrados, tendo a opção de ver os detalhes cada uma, juntamente com o E-mail e Whatsapp da ONG responsável pelo caso.
 
+&nbsp;
+
 ## :telescope: Tecnologias
 
 Para o backend da aplicação foi construinda uma API REST com [Node.js](https://nodejs.org).
