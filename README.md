@@ -23,11 +23,11 @@
 
 ## :books: Projeto
 
-&nbsp;&nbsp;&nbsp;Be The Hero é um projeto projeto feito para que ONG's possam publicar seus casos, e assim conseguir doações.
+[Be The Hero](https://github.com/HigorDenomar/be-the-hero) é um projeto projeto feito para que ONG's possam publicar seus casos, e assim conseguir doações.
 
-&nbsp;&nbsp;&nbsp;As ONG's podem cadastrar os casos pelo site, informando o preço que precisam e deixando mais informações sobre o caso.
+As ONG's podem cadastrar os casos pelo site, informando o preço que precisam e deixando mais informações sobre o caso.
 
-&nbsp;&nbsp;&nbsp;Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobile e visualizar todos os casos cadastrados, tendo a opção de ver os detalhes cada uma, juntamente com o E-mail e Whatsapp da ONG responsável pelo caso.
+Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobile e visualizar todos os casos cadastrados, tendo a opção de ver os detalhes cada uma, juntamente com o E-mail e Whatsapp da ONG responsável pelo caso.
 
 ## :telescope: Tecnologias
 
