@@ -23,11 +23,11 @@
 
 ## :books: Projeto
 
-[Be The Hero](https://github.com/HigorDenomar/be-the-hero) é um projeto projeto feito para que ONG's possam publicar seus casos, e assim conseguir doações.
+[Be The Hero](https://github.com/HigorDenomar/be-the-hero) é um projeto feito para que ONG's possam publicar suas ocorrências, e assim conseguir doações.
 
-As ONG's podem cadastrar os casos pelo site, informando o preço que precisam e deixando mais informações sobre o caso.
+As ONG's podem cadastrar os casos pelo site, informando o valor que precisam e deixando mais informações sobre a ocorrência.
 
-Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobile e visualizar todos os casos cadastrados, tendo a opção de ver os detalhes cada uma, juntamente com o E-mail e Whatsapp da ONG responsável pelo caso.
+Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobile e visualizar todas as ocorrências cadastrados, tendo a opção de ver os detalhes cada uma, juntamente com o E-mail e Whatsapp da ONG responsável pela publicação.
 
 &nbsp;
 
@@ -35,7 +35,7 @@ Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobi
 
 Para o backend da aplicação foi construinda uma API REST com [Node.js](https://nodejs.org).
 
-Para o fontend foi utilizado o [React.js](https://reactjs.org) para a construção do site, e o [React Native](https://reactnative.dev/) para o aplicativo mobile.
+No frontend, foi utilizado o [React.js](https://reactjs.org) para a construção do site e o [React Native](https://reactnative.dev/) para o aplicativo mobile.
 
 &nbsp;
 
@@ -52,8 +52,8 @@ Tela de perfil da ONG:
 
 &nbsp;
 
-Tela para cadastrar um novo caso:
-<img src="assets/new-incident.png" alt="Tela para cadastrar um novo caso">
+Tela para cadastrar uma nova ocorrência:
+<img src="assets/new-incident.png" alt="Tela para cadastrar uma nova ocorrência">
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Tela para cadastrar um novo caso:
 
 #### Mobile:
 
-<img src="assets/feed-mobile.jpg" width="421" alt="Tela inicial do aplicativo mobile"> &nbsp; &nbsp; &nbsp; <img src="assets/detail-incident-mobile.jpg" width="421" alt="Tela de detalhes do caso no aplicativo mobile">
+<img src="assets/feed-mobile.jpg" width="421" alt="Tela inicial do aplicativo mobile"> &nbsp; &nbsp; &nbsp; <img src="assets/detail-incident-mobile.jpg" width="421" alt="Tela de detalhes de uma ocorrência no aplicativo mobile">
 
 &nbsp;
 
