@@ -1,8 +1,8 @@
-<h3 align="center">
+<div align="center">
 
 <img src="./web/src/assets/logo.svg" alt="Be The Hero" />
 
-</h3>
+</div>
 
 <div align="center">
   Projeto realizado durante a Semana OmniStack #11
@@ -19,8 +19,6 @@
 
 <br/>
 
-
-
 ## :books: Projeto
 
 [Be The Hero](https://github.com/HigorDenomar/be-the-hero) é um projeto feito para que ONG's possam publicar suas ocorrências, e assim conseguir doações.
@@ -35,7 +33,15 @@ Quem estiver interessado em fazer uma doação, pode entrar pelo aplicativo mobi
 
 Para o backend da aplicação foi construinda uma API REST com [Node.js](https://nodejs.org).
 
-No frontend, foi utilizado o [React.js](https://reactjs.org) para a construção do site e o [React Native](https://reactnative.dev/) para o aplicativo mobile.
+No frontend, foi utilizado [React.js](https://reactjs.org) para a construção do site e [React Native](https://reactnative.dev/) com [Expo](https://expo.io/) para o aplicativo mobile.
+
+Também foram utilizadas:
+
+- [Axios](https://www.npmjs.com/package/axios/)
+- [Express](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon/)
+- [Cors](https://www.npmjs.com/package/cors/)
+- [Jest](https://www.npmjs.com/package/jest/)
 
 &nbsp;
 
